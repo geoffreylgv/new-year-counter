@@ -18,6 +18,4 @@
  [geoffrey@cli-geoffrey]-[~/new-year-counter]--$ chrome index.html
  ```
  
- ### About
- 
  <p align='center'> Made With ❤️ By <a href="https://linkedin.com/in/geoffreylgv">Geoffrey Logovi</a></p>
